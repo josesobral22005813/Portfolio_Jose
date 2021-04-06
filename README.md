@@ -5,6 +5,6 @@ I'm a student a student at ULHT (Universidade Lusófona de Humanidades e Tecnolo
 | Programing Languages:  | Knowledge:  |
 | :---                   | :---        |
 | Kotlin                 | ●●●●●       |
-| Java                   | ●●●●○       |
+| Java                   | ●●●●○      |
 | C                      | ●●●○○       |
 
