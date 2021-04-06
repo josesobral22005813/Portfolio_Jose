@@ -9,7 +9,7 @@ I'm a student a student at ULHT (Universidade Lusófona de Humanidades e Tecnolo
 | C                      | ●●●◌◌        |
 
 
-# Project 1: Simple Chess Board Builder.
+## Project 1: Simple Chess Board Builder.
 * This is a simple program writen in Kotlin that builds a chess board.
 
 * The program builds a simple menu.
