@@ -14,20 +14,20 @@ I'm a student a student at ULHT (Universidade Lusófona de Humanidades e Tecnolo
 
 * The program builds a simple menu.
 
-![](https://github.com/josesobral22005813/Portfolio_Jose/blob/main/images/ChessProjectOverviewImage1.PNG)
+![](/images/ChessProjectOverviewImage1.PNG)
 
 * Asks you to introduce names for the first and second player.
 
-![](https://github.com/josesobral22005813/Portfolio_Jose/blob/main/images/ChessProjectOverviewImage2.PNG)
+![](/images/ChessProjectOverviewImage2.PNG)
 
 * Asks you to choose the dimensions of the chess board.
 
-![](https://github.com/josesobral22005813/Portfolio_Jose/blob/main/images/ChessProjectOverviewImage3.PNG)
+![](/images/ChessProjectOverviewImage3.PNG)
 
 * Asks you to choose if you want a legend and pieces on the board.
 
-![](https://github.com/josesobral22005813/Portfolio_Jose/blob/main/images/ChessProjectOverviewImage4.PNG)
+![](/images/ChessProjectOverviewImage4.PNG)
 
 * Builds a chess board according the inputs of the user.
 
-![](https://github.com/josesobral22005813/Portfolio_Jose/blob/main/images/ChessProjectOverviewImage5.PNG)
+![](/images/ChessProjectOverviewImage5.PNG)
