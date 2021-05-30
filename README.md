@@ -35,14 +35,17 @@ I'm a student a student at ULHT (Universidade Lusófona de Humanidades e Tecnolo
 ## Relevant Images
 
 ![This is my Curriculum Vitae](/images/CV.png)  
+
 [CLICK ME TO DOWNLOAD CV](https://drive.google.com/uc?export=download&id=1g4yhxJadkR6okE7ns951rUD-8ysBxQGS)
 
 ![This is a presentation letter for IBM](/images/Carta%20de%20apresentacao.PNG)
+
 [CLICK ME TO DOWNLOAD PRESENTATION LETTER](https://drive.google.com/uc?export=download&id=1_Nwc_lc_gTz6Zb5C6RnvD_3EJ47jgZlj)
 
 # Social media
 
 [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-sobral-26621720b/)
+
 [Github](https://github.com/josesobral22005813)
 
 
