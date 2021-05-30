@@ -34,6 +34,6 @@ I'm a student a student at ULHT (Universidade Lusófona de Humanidades e Tecnolo
 
 ## Relevant Images and Links
 
-![](/images/CV.PNG)
+![](/images/CV.png)
 
-![](/images/Carta_Apresentacao.PNG)
+![](/images/Carta%20de%20apresentacao.PNG)
