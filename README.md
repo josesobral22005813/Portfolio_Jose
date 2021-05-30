@@ -38,7 +38,7 @@ I'm a student a student at ULHT (Universidade Lusófona de Humanidades e Tecnolo
 
 [CLICK ME TO DOWNLOAD CV](https://drive.google.com/uc?export=download&id=1g4yhxJadkR6okE7ns951rUD-8ysBxQGS)
 
-![This is a presentation letter for IBM](/images/Carta%20de%20apresentacao.PNG)
+![This is a presentation letter for IBM](/images/CartaDeApresentacao.PNG)
 
 [CLICK ME TO DOWNLOAD PRESENTATION LETTER](https://drive.google.com/uc?export=download&id=1_Nwc_lc_gTz6Zb5C6RnvD_3EJ47jgZlj)
 
