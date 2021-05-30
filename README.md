@@ -34,6 +34,6 @@ I'm a student a student at ULHT (Universidade Lusófona de Humanidades e Tecnolo
 
 ## Relevant Images and Links
 
-![](/images/CV.png)
+![This is my Curriculum Vitae](/images/CV.png)
 
-![](/images/Carta%20de%20apresentacao.PNG)
+![THis is a presentation letter for IBM](/images/Carta%20de%20apresentacao.PNG)
