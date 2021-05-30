@@ -42,7 +42,7 @@ I'm a student a student at ULHT (Universidade Lusófona de Humanidades e Tecnolo
 
 [CLICK ME TO DOWNLOAD PRESENTATION LETTER](https://drive.google.com/uc?export=download&id=1_Nwc_lc_gTz6Zb5C6RnvD_3EJ47jgZlj)
 
-# Social media
+### Social media
 
 [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-sobral-26621720b/)
 
